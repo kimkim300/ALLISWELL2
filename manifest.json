@@ -1,0 +1,30 @@
+{
+  "name": "ALL IS WELL 🌱",
+  "short_name": "ALL IS WELL",
+  "description": "일정 관리 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667EEA",
+  "theme_color": "#6C5CE7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
+
